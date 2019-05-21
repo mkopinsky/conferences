@@ -17,4 +17,5 @@
     * Users (or roles) have applied **policies** that use these attributes to allow or block access
         * e.g. users in the download_manager role can download files that they themselves uploaded
     * Policies are evaluated at request time based on current attributes
+    * [php-abac](https://github.com/CraftCamp/php-abac) is a library
     
