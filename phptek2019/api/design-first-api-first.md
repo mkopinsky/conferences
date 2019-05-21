@@ -21,6 +21,9 @@ Lorna  from Nexmo
     *  Also consider input formats!
 * Error behavior
     * Use RFC 8707
-    * Use consistent behavior 
+    * Use consistent behavior on all endpoints
+    * Status codes for success/failure
+    * Data structure is predictable
+
 
 
