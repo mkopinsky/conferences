@@ -1,5 +1,5 @@
 # Design First is Better Than API First
-Lorna  from Nexmo
+[Lorna Mitchell](https://twitter.com/lornajane) from Nexmo
 
 
 * Start with the user story.
