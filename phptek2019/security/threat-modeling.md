@@ -35,4 +35,6 @@ Threat modeling is a process by which potential threats ... can be identified, e
     * Denial of service
         * DDos via botnet
         * DoS via load testing tools
-        
+        * DoS via code or data deletion
+            * memcached doesn't have internal auth controls, so if it's exposed to internet, attacker could delete keys preventing DoS
+    * 
