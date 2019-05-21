@@ -13,4 +13,4 @@ Actual talks attended:
   * 10am: API Track: [Design First is better than API first](./api/design-first-api-first.md)
   * 11am: Security: [Password-Based Authentication Strategies](./security/password-based-authentication.md)
   * 1pm: API Track: [Authentication: The Token API Talk](./api/token.md)
-  
+  * 2pm: Security: [Access Control & Authorization](./security/access-control-authorization.md)
