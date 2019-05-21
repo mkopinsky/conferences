@@ -68,5 +68,14 @@ Threat modeling is a process by which potential threats ... can be identified, e
             * Iterative process. "As you get better you'll stop designing threats into it"
         * Revisit end result and threat model any changes during development 
     * Paying down security debt on existing apps
+        * We all have some security debt
+            * legacy code
+            * uneven security practices
+            * last minute requests
+            * Insufficient threat modeling
+        * Identify gaps
+        * Have a plan for paying down
+        * Track progress of the plan
+        * Review progress at regular intervals
     * Continuous review
         
