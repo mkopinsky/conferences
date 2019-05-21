@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1ec8d13-13a9-4b08-a503-d429293015c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/phptek2019/api/design-first-api-first.md" beforeDir="false" afterPath="$PROJECT_DIR$/phptek2019/api/design-first-api-first.md" afterDir="false" />
-    </list>
+    <list default="true" id="b1ec8d13-13a9-4b08-a503-d429293015c6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/phptek2019/api/design-first-api-first.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="584">
+              <first_editor relative-caret-position="618">
                 <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
               </first_editor>
               <second_editor />
@@ -122,19 +120,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558447548862</updated>
-      <workItem from="1558447550049" duration="2113000" />
+      <workItem from="1558447550049" duration="2630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2113000" />
+    <option name="totallyTimeSpent" value="2630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -171,7 +168,7 @@
     <entry file="file://$PROJECT_DIR$/phptek2019/api/design-first-api-first.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="584">
+          <first_editor relative-caret-position="618">
             <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
           </first_editor>
           <second_editor />
