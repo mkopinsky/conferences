@@ -8,4 +8,6 @@
     * Users can have one or more roles
     * Each role will have one or more permissions
     * Operations are restricted based on permissions 
-* php-rbac is OWASP-maintained library for PHP
+* [php-rbac](https://github.com/OWASP/rbac) is OWASP-maintained library for PHP
+    * Looks outdated, but that's because they consider it complete
+* 

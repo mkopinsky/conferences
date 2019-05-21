@@ -30,3 +30,5 @@ Tim Lytle
             * This is what Firebase does
     * With Claims (JWT)
         * Token has access not just about identity, but about what the token is allowed to do. e.g. scope, expiration
+        
+I got distracted for the end of this talk. TODO: find Tim's slides and review (and possibly add to these notes)
