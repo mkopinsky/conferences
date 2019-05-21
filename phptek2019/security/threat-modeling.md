@@ -16,7 +16,7 @@ Threat modeling is a process by which potential threats ... can be identified, e
         * Disgruntled employee
             * Is there an off-boarding process?
             * Do people have data on (or access from) personal devices?
-* [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security))
+* [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security)
     * Spoofing
         * Phishing
         * Session take over - presenting yourself as a currently authenticated user ([Firesheep](https://en.wikipedia.org/wiki/Firesheep))
@@ -32,3 +32,7 @@ Threat modeling is a process by which potential threats ... can be identified, e
         * Log manipulation
     * Information disclosure
         * Leaking sensitive data via various means
+    * Denial of service
+        * DDos via botnet
+        * DoS via load testing tools
+        
