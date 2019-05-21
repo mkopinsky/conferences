@@ -24,6 +24,12 @@ Lorna  from Nexmo
     * Use consistent behavior on all endpoints
     * Status codes for success/failure
     * Data structure is predictable
+* *Collaboration Tools*
+* Documentation Tools
+    * Best tools work with source control, quick to create, easy to deploy, painless to maintain/update
+    
 
 
-
+Audience questions:
+* /users/123/posts vs /posts?user_id=123 - do you want to have multiple? Is that good? Bad?
+    * Come to URI/hypermedia talks, but in short, there are ways to hint at the canonical path, e.g. by redirecting
