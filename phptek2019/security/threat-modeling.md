@@ -45,5 +45,15 @@ Threat modeling is a process by which potential threats ... can be identified, e
         * What is the financial impact of the threat? (regulatory, suing, loss of revenue)
         * Potential impact on customer base?
     * Reproducibility
-        
+        * Can it be triggered in web browser, or does it require special skills?
+        * Does the system have to be in a particular state for the attack to be reproduced?
+        * Who would likely be able to reproduce this attack?
+    * Exploitability
+        * What does someone need to know to leverage the weakness?
+            * Insider threat vs outsider threat
+        * What skills or tools are required?
+        * Who has the knowledge or skills required?
+            * Nation state, script kiddie
+    * Affected Users
+        * Which classes of users are affected?
         
