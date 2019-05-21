@@ -20,7 +20,7 @@ Lorna  from Nexmo
 * Data Formats
     *  Also consider input formats!
 * Error behavior
-    * Use RFC 8707
+    * Use [RFC 8707](https://tools.ietf.org/html/rfc7807)
     * Use consistent behavior on all endpoints
     * Status codes for success/failure
     * Data structure is predictable
