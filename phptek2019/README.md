@@ -11,4 +11,5 @@ Actual talks attended:
 * Tuesday
   * 9am: traveling from airport
   * 10am: API Track: [Design First is better than API first](./api/design-first-api-first.md)
+  * 11am: Security: [Password-Based Authentication Strategies](./security/password-based-authentication.md)
   
