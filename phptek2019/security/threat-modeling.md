@@ -79,5 +79,5 @@ Threat modeling is a process by which potential threats ... can be identified, e
         * Review progress at regular intervals
     * Continuous review
         * Continuously revisit threats identified as fully or partially mitigated to ensure they are still mitigated
-        * Refactor your threat models
+        * Refactor your threat models. You know more now than you used to, so evolve the threat models
         

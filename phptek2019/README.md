@@ -15,3 +15,4 @@ Actual talks attended:
   * 1pm: API Track: [Authentication: The Token API Talk](./api/token.md)
   * 2pm: Security: [Access Control & Authorization](./security/access-control-authorization.md)
   * 3:30pm: Security: [Fortifying Your Defenses with Threat Modeling](./security/threat-modeling.md)
+  * 4:30pm: API Track: [API Gateways](./api/api-gateways.md)
