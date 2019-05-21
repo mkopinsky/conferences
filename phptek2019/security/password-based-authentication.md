@@ -10,5 +10,5 @@
 * Use correct cost factor
 * SRP ([Secure Remote Password protocol](https://en.wikipedia.org/wiki/Secure_Remote_Password_protocol)) is a way to authenticate with a server without ever sending password to the server
     * Seems a bit like Diffie-Hellman but for a password
-    * libsodium exists for javascript, so the same code can be used on server and client
+    * node-sodium and libsodium.js for browser, so the same code can be used on server and client
     
