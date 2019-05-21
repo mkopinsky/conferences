@@ -19,4 +19,11 @@
     * Policies are evaluated at request time based on current attributes
     * [php-abac](https://github.com/CraftCamp/php-abac) is a library
 * Risk-based Access Control
-    * 
+    * In general, built upon a ABAC
+    * Leverage attributes that quantify risk
+        * How did the user authenticate?
+        * When and from where did they authenticate?
+        * How risky is the operation?
+    * Effectively adds environmental info to the system
+    * Example: Amazon lets you add things to your shopping list, on a computer you've used before, but won't let you check out or change shipping address
+* 
