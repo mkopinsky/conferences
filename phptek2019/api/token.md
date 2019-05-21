@@ -5,4 +5,9 @@ Tim Lytle
     * Sometimes appropriate
     * What do you rate limit based on? Same answer as public web sites
     * Just adding API Keys (without any authorization) gives you a way to rate limit based on API key
+* Basic
+    * i.e. user/pass
+    * OK for APIs, but...
+    * Must store credentials
+    * Hard to revoke, dangerous to expose
 * 
