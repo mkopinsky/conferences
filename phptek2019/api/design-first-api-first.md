@@ -27,7 +27,7 @@ Lorna  from Nexmo
 * *Collaboration Tools*
 * Documentation Tools
     * Best tools work with source control, quick to create, easy to deploy, painless to maintain/update
-    
+    * [Slate](https://github.com/lord/slate) is a quick markdown API documentation tool
 
 
 Audience questions:
