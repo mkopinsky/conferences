@@ -17,4 +17,11 @@ Tim Lytle
     * Can be given to a 3rd party
     * Easy to revoke
     * A user can have multiple tokens, e.g. with different permissions.
-    *     
+* Token types:
+    * Simple Generated (API Key)
+        * Like password, usually random text
+    * Signed Token (OAuth1)
+        * Client has private key which it uses to sign a token, which is what gets sent along with request
+        * Signatures matching means that requests are tamper-proof
+    * Long-lived or short-lived (OAuth2)
+    * With Claims (JWT)
