@@ -28,7 +28,13 @@ Lorna  from Nexmo
 * Documentation Tools
     * Best tools work with source control, quick to create, easy to deploy, painless to maintain/update
     * [Slate](https://github.com/lord/slate) is a quick markdown API documentation tool
-
+* API Description Languages
+    * (There's another talk on this tomorrow)
+    * Can be used to generate documentation
+    * Fire up a mock server
+    * Can import collection into Postman
+        * WHOA. I want to look into this.
+    * Can generate outline of either API server or a client
 
 Audience questions:
 * /users/123/posts vs /posts?user_id=123 - do you want to have multiple? Is that good? Bad?
