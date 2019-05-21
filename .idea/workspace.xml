@@ -41,8 +41,8 @@
         <entry file="file://$PROJECT_DIR$/phptek2019/security/threat-modeling.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="340">
-                <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <first_editor relative-caret-position="374">
+                <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
               </first_editor>
               <second_editor />
             </state>
@@ -162,12 +162,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558447548862</updated>
-      <workItem from="1558447550049" duration="11444000" />
+      <workItem from="1558447550049" duration="11508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11444000" />
+    <option name="totallyTimeSpent" value="11508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
@@ -251,8 +251,8 @@
     <entry file="file://$PROJECT_DIR$/phptek2019/security/threat-modeling.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <first_editor relative-caret-position="374">
+            <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           </first_editor>
           <second_editor />
         </state>

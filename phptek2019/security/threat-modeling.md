@@ -13,3 +13,5 @@ Threat modeling is a process by which potential threats ... can be identified, e
         * Physical security
             * Cleaning crews
             * Bash bunny
+        * Disgruntled employee
+            * Off-boarding process?
