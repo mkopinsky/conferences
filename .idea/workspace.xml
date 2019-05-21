@@ -40,8 +40,8 @@
         <entry file="file://$PROJECT_DIR$/phptek2019/security/threat-modeling.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="621">
-                <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+              <first_editor relative-caret-position="502">
+                <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
               </first_editor>
               <second_editor />
             </state>
@@ -161,12 +161,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558447548862</updated>
-      <workItem from="1558447550049" duration="12507000" />
+      <workItem from="1558447550049" duration="12613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12507000" />
+    <option name="totallyTimeSpent" value="12613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
@@ -250,8 +250,8 @@
     <entry file="file://$PROJECT_DIR$/phptek2019/security/threat-modeling.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="621">
-            <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+          <first_editor relative-caret-position="502">
+            <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
           </first_editor>
           <second_editor />
         </state>
