@@ -18,6 +18,9 @@ Lorna  from Nexmo
         * Webhooks (for incoming data)
             * Registered in advance
 * Data Formats
-    *  
+    *  Also consider input formats!
+* Error behavior
+    * Use RFC 8707
+    * Use consistent behavior 
 
 
