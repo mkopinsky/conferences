@@ -8,3 +8,8 @@ Threat modeling is a process by which potential threats ... can be identified, e
     3. Identify system dependencies
         * List the whole stack. Application security doesn't do much if your backups on S3 are publicly exposed
         * Equifax and Apache struts
+        * wordpress and PHP mailer
+    4. Identify threats
+        * Physical security
+            * Cleaning crews
+            * Bash bunny
