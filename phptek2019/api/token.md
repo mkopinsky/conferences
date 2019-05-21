@@ -26,4 +26,7 @@ Tim Lytle
     * Long-lived or short-lived (OAuth2)
         * Typically used together - refresh token (lasts longer), access token (much shorter)
         * Means that long-lived tokens aren't being sent back and forth a bunch
+        * Could also be used to give the browser a short access to my API, but I don't want the browser to have access forever
+            * This is what Firebase does
     * With Claims (JWT)
+        * Token has access not just about identity, but about what the token is allowed to do. e.g. scope, expiration
