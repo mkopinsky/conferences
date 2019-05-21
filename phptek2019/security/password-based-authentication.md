@@ -1,4 +1,5 @@
 # Password-Based Authentication Strategies
+Eric.Mann@vacasa.com
 
 * Factors
     * Something you are (identity e.g. username)
