@@ -4,7 +4,8 @@
     * Something you are (identity e.g. username)
     * Something you know (e.g. password, PIN)
     * Something you have (e.g. credit card chip, Fido authentication key)
-* Require strong passwords, using zxcvbn
+* Require strong passwords, using zxcvbn or the like rather than arbitrary rules
+* Strong hashing is a must
 * Restrict passwords from previously breached corpuses
 * [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html)
 * Use correct cost factor
