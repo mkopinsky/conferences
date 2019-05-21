@@ -56,4 +56,14 @@ Threat modeling is a process by which potential threats ... can be identified, e
             * Nation state, script kiddie
     * Affected Users
         * Which classes of users are affected?
+    * Discoverability
+* Practical Illustrations
+    * Add threat modeling to the definition of done
+        * Aligns everyone to expectations (business owners, QA, dev, PM)
+        * Ensures time needed for modeling is part of estimates
+        * Ensures it is **always** done
+        * Helps reinforce security mindset
+    * Starting from scratch with a new application/service/feature
+    * Paying down security debt on existing apps
+    * Continuous review
         
