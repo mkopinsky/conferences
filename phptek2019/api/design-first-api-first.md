@@ -35,6 +35,11 @@ Lorna  from Nexmo
     * Can import collection into Postman
         * WHOA. I want to look into this.
     * Can generate outline of either API server or a client
+* Best API docs
+    * Include a Quickstart for API-ready individuals
+    * Include detailed tutorials
+    * Have detailed API reference materials
+    * "Every API is someone's first API"
 
 Audience questions:
 * /users/123/posts vs /posts?user_id=123 - do you want to have multiple? Is that good? Bad?
