@@ -24,4 +24,6 @@ Tim Lytle
         * Client has private key which it uses to sign a token, which is what gets sent along with request
         * Signatures matching means that requests are tamper-proof
     * Long-lived or short-lived (OAuth2)
+        * Typically used together - refresh token (lasts longer), access token (much shorter)
+        * Means that long-lived tokens aren't being sent back and forth a bunch
     * With Claims (JWT)
