@@ -17,7 +17,10 @@ Threat modeling is a process by which potential threats ... can be identified, e
             * Is there an off-boarding process?
             * Do people have data on (or access from) personal devices?
 * [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security))
-    *  Spoofing
+    * Spoofing
         * Phishing
         * Session take over - presenting yourself as a currently authenticated user ([Firesheep](https://en.wikipedia.org/wiki/Firesheep))
-    * 
+        * Logging in with another user's credentials
+    * Tampering
+        * SQL injection
+        * Malicious code injection (XSS, RCE)
