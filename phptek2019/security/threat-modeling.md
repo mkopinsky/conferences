@@ -15,6 +15,9 @@ Threat modeling is a process by which potential threats ... can be identified, e
             * Bash bunny
         * Disgruntled employee
             * Is there an off-boarding process?
-            * Do people 
-* STRIDE
-    *  
+            * Do people have data on (or access from) personal devices?
+* [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security))
+    *  Spoofing
+        * Phishing
+        * Session take over - presenting yourself as a currently authenticated user ([Firesheep](https://en.wikipedia.org/wiki/Firesheep))
+    * 
