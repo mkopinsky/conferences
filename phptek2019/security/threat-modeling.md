@@ -24,3 +24,11 @@ Threat modeling is a process by which potential threats ... can be identified, e
     * Tampering
         * SQL injection
         * Malicious code injection (XSS, RCE)
+    * Repudiation: Make it hard to find evidence 
+        * Log saturation interferes with ability so find bad behavior
+            * Spam an error that throws stack traces in logs
+        * Log disabling
+            * Jewelry thief who steals video tape from camera 
+        * Log manipulation
+    * Information disclosure
+        * Leaking sensitive data via various means
