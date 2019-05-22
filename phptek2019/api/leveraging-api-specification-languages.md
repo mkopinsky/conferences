@@ -1,6 +1,6 @@
 # Leveraging API Specification Languages
 
-Lorna Mitchell, Nexmo
+Lorna Mitchell, Nexmo [@lornajane](https://twitter.com/lornajane)
 
 "Writing API documentations in a way that's **so** simple that even computers can understand"
 * Describe APIs in a machine-readable way
@@ -30,4 +30,5 @@ Lorna Mitchell, Nexmo
     * [Stoplight](https://stoplight.io/) is highly recommended if you like a web interface
     * Atom with `linter-swagger`
     * SwaggerUI, SwaggerHub, etc [https://swagger.io/tools/]()
-    * APICurio Studio gets good reviews
+    * [APICurio Studio](https://www.apicur.io/) gets good reviews
+* Use version control!
