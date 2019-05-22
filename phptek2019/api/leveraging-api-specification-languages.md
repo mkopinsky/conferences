@@ -36,3 +36,4 @@ Lorna Mitchell, Nexmo [@lornajane](https://twitter.com/lornajane)
     * Speccy - CLI Tool with configurable rules [https://github.com/wework/speccy]()
     * Spectral - newer CLI tool, also with rules [https://github.com/stoplightio/spectral]()
     * Open API Spec Validator
+    * Speccy and Spectral are both opinionated, and will throw errors for things that are technically valid
