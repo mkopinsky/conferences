@@ -29,5 +29,5 @@ Lorna Mitchell, Nexmo
 * Editing tools
     * [Stoplight](https://stoplight.io/) is highly recommended if you like a web interface
     * Atom with `linter-swagger`
-    * SwaggerUI, SwaggerHub, etc
+    * SwaggerUI, SwaggerHub, etc [https://swagger.io/tools/]()
     * APICurio Studio gets good reviews
