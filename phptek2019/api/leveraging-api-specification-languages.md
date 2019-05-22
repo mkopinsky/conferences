@@ -18,3 +18,11 @@ Lorna Mitchell, Nexmo
     * New APIs or existing ones?
         * Yes, both
 * Anatomy of OpenAPI spec
+    * Top-level elements
+        * `openapi` - version, etc
+        * `info` - often not rendered by doc builders. But take the time and fill it in. As things get indexed, we'll use this more and more. (Postman already has an index of sorts).
+        * `servers`
+        * `paths` - What you typically think of as API reference docs
+        * `components` - Describe things here and refer to them from elsewhere in the API. Responses, field formats, etc.
+        * `security`
+        * `tags`
