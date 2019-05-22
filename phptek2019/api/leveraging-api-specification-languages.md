@@ -32,3 +32,7 @@ Lorna Mitchell, Nexmo [@lornajane](https://twitter.com/lornajane)
     * SwaggerUI, SwaggerHub, etc [https://swagger.io/tools/]()
     * [APICurio Studio](https://www.apicur.io/) gets good reviews
 * Use version control!
+* Validation tools
+    * Speccy - CLI Tool with configurable rules
+    * Spectral - newer CLI tool, also with rules
+    * Open API Spec Validator
