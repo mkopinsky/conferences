@@ -9,3 +9,9 @@ Lorna Mitchell, Nexmo
     * Code SDKs
     * Postman collections
     * Mock servers
+* API Spec Languages
+    * OpenAPI
+    * RAML (Mulesoft)
+    * API Blueprint (Apiary)
+* Spec-first API Design
+    * 
