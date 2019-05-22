@@ -33,6 +33,6 @@ Lorna Mitchell, Nexmo [@lornajane](https://twitter.com/lornajane)
     * [APICurio Studio](https://www.apicur.io/) gets good reviews
 * Use version control!
 * Validation tools
-    * Speccy - CLI Tool with configurable rules
-    * Spectral - newer CLI tool, also with rules
+    * Speccy - CLI Tool with configurable rules [https://github.com/wework/speccy]()
+    * Spectral - newer CLI tool, also with rules [https://github.com/stoplightio/spectral]()
     * Open API Spec Validator
