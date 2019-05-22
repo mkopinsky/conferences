@@ -8,11 +8,15 @@ Plan is:
 * Thursday: Advanced PHP
 
 Actual talks attended:
-* Tuesday
-  * 9am: traveling from airport
-  * 10am: API Track: [Design First is better than API first](./api/design-first-api-first.md)
-  * 11am: Security: [Password-Based Authentication Strategies](./security/password-based-authentication.md)
-  * 1pm: API Track: [Authentication: The Token API Talk](./api/token.md)
-  * 2pm: Security: [Access Control & Authorization](./security/access-control-authorization.md)
-  * 3:30pm: Security: [Fortifying Your Defenses with Threat Modeling](./security/threat-modeling.md)
-  * 4:30pm: API Track: [API Gateways](./api/api-gateways.md)
+
+| Day | Time | Track | Talk |
+| ----- |---|---|---|
+| Tuesday |10am |API| [Design First is better than API first](./api/design-first-api-first.md)|
+| |11am|Security|[Password-Based Authentication Strategies](./security/password-based-authentication.md)
+| |1pm| API |[Authentication: The Token API Talk](./api/token.md)|
+| |2pm| Security| [Access Control & Authorization](./security/access-control-authorization.md)
+| |3:30pm| Security| [Fortifying Your Defenses with Threat Modeling](./security/threat-modeling.md)
+| |4:30pm| API | [API Gateways](./api/api-gateways.md)|
+| Wednesday|9am| Performance | [The Human Aspect of Performance](./performance/human-aspect.md)|
+| | 10am, 11am, 1pm, 2pm | | No notes. :-( | 
+| | 3:30pm | API | Leveraging API Specification Languages |
