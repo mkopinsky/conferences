@@ -26,3 +26,8 @@ Lorna Mitchell, Nexmo
         * `components` - Describe things here and refer to them from elsewhere in the API. Responses, field formats, etc.
         * `security` - auth (oauth, basic auth, etc.)
         * `tags`
+* Editing tools
+    * [Stoplight](https://stoplight.io/) is highly recommended if you like a web interface
+    * Atom with `linter-swagger`
+    * SwaggerUI, SwaggerHub, etc
+    * APICurio Studio gets good reviews
