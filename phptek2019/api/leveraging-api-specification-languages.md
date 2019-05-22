@@ -24,5 +24,5 @@ Lorna Mitchell, Nexmo
         * `servers`
         * `paths` - What you typically think of as API reference docs
         * `components` - Describe things here and refer to them from elsewhere in the API. Responses, field formats, etc.
-        * `security`
+        * `security` - auth (oauth, basic auth, etc.)
         * `tags`
