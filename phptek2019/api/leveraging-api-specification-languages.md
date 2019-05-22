@@ -14,4 +14,7 @@ Lorna Mitchell, Nexmo
     * RAML (Mulesoft)
     * API Blueprint (Apiary)
 * Spec-first API Design
-    * 
+    * Best way to build/collaborate
+    * New APIs or existing ones?
+        * Yes, both
+* Anatomy of OpenAPI spec
