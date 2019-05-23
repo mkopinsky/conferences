@@ -20,3 +20,4 @@ Actual talks attended:
 | Wednesday|9am| Performance | [The Human Aspect of Performance](./performance/human-aspect.md)|
 | | 10am, 11am, 1pm, 2pm | | No notes. :-( | 
 | | 3:30pm | API | Leveraging API Specification Languages |
+| Thursday| 9am | Advanced PHP | Code Review: For Me and You |
