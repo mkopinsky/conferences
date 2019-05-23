@@ -9,4 +9,4 @@ Slides by Steve Grunwell, Talk by Samantha Quinone
     * "Bug sweeps"
         * Usually after merge, going through things that changed that day/week
 * Informal Code Review
-    * 
+* 
