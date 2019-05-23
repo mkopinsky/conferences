@@ -60,6 +60,15 @@ Joe Ferguson
     * `rewind($file)` goes back to the beginning
     * `fseek($file, 96);` goes forward by 96 bytes. (Can also go negative.)
     * These are all wrappers around 
+* Guzzle
+    * uses streams
+    * Constructor is used to set context (like context above!) for request
+    * Response is a `GuzzleHttps\Psr7\Stream`.
+        * In Joe's example, it had ui of `php://temp` because it fetched the data and shoved it into a PHP temp file in memory
+        * Cast to string to get response body
+        * To use as streams
+            * `$hundredBytes = $body->read(100);`
+    
 
 
 
