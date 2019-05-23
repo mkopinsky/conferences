@@ -24,7 +24,7 @@ Joe Ferguson
     $context = [
         'http' => [
             'headers' => '.....'
-        ...
+            ...
         ]
     ];
     stream_context_set_default($context);
