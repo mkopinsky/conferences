@@ -6,4 +6,5 @@ Joe Ferguson
     * A stream is a resource objects which exhibits streamable behavior ~ phpdocs
     * typically a file pointer, but could be many different things. 
     * Any data that has the ability to seek and rewind. (Linear data)
+* Streams look like: `scheme://target`. You don't use streams directly, you use a wrapper.
 * 
