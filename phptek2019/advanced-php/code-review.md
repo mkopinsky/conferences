@@ -33,7 +33,16 @@ Slides by Steve Grunwell, Talk by Samantha Quinone
     * Don't bombard with comments. Before you comment, do quick read. If they're on the wrong track, "Hey I saw your PR and I had some thoughts, can we sit down together?" is much better and lets you watch body language etc.
     * Note common themes. If they do something weird 15 times, talk about it rather than putting 15 comments.
     * Give critical/negative feedback in person as much as possible.
-    *
+    * Be objective, not subjective.
+        * Instead of "According to Gang of Four Observer Pattern MUST be like This", use "If you check out how they did it in Symfony Events, ..."
+        * Put aside personal feelings and opinions
+        * Provide resources where appropriate
+        * Ask questions! ("What will happen if..." rather than "This will break under load.")
+        
+* Open discussion: Things that have worked well when giving feedback
+    * Positive feedback as well
+    * Receive feedback well!
+    
     
     
 Personal takeaways:
