@@ -21,4 +21,6 @@ Slides by Steve Grunwell, Talk by Samantha Quinone
         * Learning opportunity for reviewer - e.g. X is looking to get better at testing
         * Learning opportunity for dev - e.g. first time implementing new pattern, have someone review who's most familiar with the pattern
     * Be mindful about who to assign to
-        
+    * Go to reviewer with specific request - "This is the first time doing currency conversion, can I get a second set of eyes"
+        * This helps avoid adversarial reviews since the scope of the review is clearly defined.
+* 
