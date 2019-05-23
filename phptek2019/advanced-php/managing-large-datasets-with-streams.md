@@ -69,7 +69,10 @@ Joe Ferguson
         * To use as streams
             * `$hundredBytes = $body->read(100);`
             * Once we have a sense it's safe, fetch and json_decode with `json_decode($response->getBody)`
-    
+* Audience questions
+    * How do you seek on remote files?
+        * Use streams to download, then seek on the local files
+    *     
 
 
 
