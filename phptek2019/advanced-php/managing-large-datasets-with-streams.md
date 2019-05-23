@@ -11,6 +11,13 @@ Joe Ferguson
     * Network streams: host/path
 * `file()`, `open()`, `fwrite()`, `fclose()`, `file_get_contents()`, `file_put_contents()` all deal with streams under the hood
 * Stream Transports
-    * `stream_get_transports()` returns the list e.g. tcp, udp, unix, 
+    * `stream_get_transports()` returns the list 
+    * tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2 
 * Stream Wrappers
+    * `stream_get_wrappers()`
     * https,ftps,compress.zlib,compress.bzip2,php,file,glob,data,http,ftp,phar,zip
+* Stream Filters
+    * `stream_get_filters()`
+    * 
+* Stream Context
+ 
