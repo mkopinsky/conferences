@@ -38,12 +38,20 @@ Slides by Steve Grunwell, Talk by Samantha Quinone
         * Put aside personal feelings and opinions
         * Provide resources where appropriate
         * Ask questions! ("What will happen if..." rather than "This will break under load.")
-        
 * Open discussion: Things that have worked well when giving feedback
     * Positive feedback as well
     * Receive feedback well!
-    
-    
+* Highlight successes
+    * The hour you spent providing Code Review is much more valuable if you provide meaningful and positive feedback.
+        * "Looks like you fixed a bug as part of this. Thanks!"
+        * "This class really needed some tests. Thanks for adding."
+* Audience question: In pipeline/workflow, where does QA sit relative to code review?
+    * In the ideal world we'd pair on everything, code review is the way to integrate a second set of eyes during the dev process.
+    * QA is **after** dev, between dev and release.
+
+My questions:
+* Objective vs. subjective
+* CR for features that were paired
     
 Personal takeaways:
     * I should probably do some pair reviewing - help other devs get better at reviews, and make the reviews happen promptly.
