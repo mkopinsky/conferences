@@ -1,4 +1,6 @@
+# Static analysis and strict typehints
 
+Joe Ferguson
 
 * Phan
     * Tries to prove incorrectness rather than correctness
@@ -7,4 +9,5 @@
     * Installing:
         * `composer require --dev phan/phan`
         * `vendor/bin/phan --init --init-level=1 --init-overwrite` Level=1 will detect only the most glaring issues
-         
+    * Manually configuring:
+        * 
