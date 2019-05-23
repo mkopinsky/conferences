@@ -9,4 +9,9 @@ Slides by Steve Grunwell, Talk by Samantha Quinone
     * "Bug sweeps"
         * Usually after merge, going through things that changed that day/week
 * Informal Code Review
-* 
+* Catch Bugs
+    * Second set of eyes
+    * Catch egregious style things
+        * Should be automated
+* Facilitating Code Reviews
+    * 
