@@ -8,3 +8,5 @@
     * Uncle Bob 2014: SRP is about people.
         * Change request from analytics group should not break a feature for marketing group.
     * SRP == Conway's law.
+* Coupling and Cohesion
+    * Couplin
