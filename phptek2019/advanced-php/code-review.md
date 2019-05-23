@@ -28,7 +28,7 @@ Slides by Steve Grunwell, Talk by Samantha Quinone
     * Good opportunity for pair reviewing. Walk through it together, when they have a moment of "huh", take a moment to reconsider. Put the burden on yourself.
 * Audience question: Checklists? They've tried checklists but they can make it a chore.
     * Look at checklist, see what can be automated. PSR-2, needs tests, etc. Pare down the checklist.
-    * Checklists aren't necessarily necessary.
+    * Checklists aren't necessarily necessary. Instead develop a code review culture where expectations are clear. Write down "here's what should be in a Pull Request" but doesn't need to be a checklist.
     
     
     
