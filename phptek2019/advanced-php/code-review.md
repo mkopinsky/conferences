@@ -1,6 +1,6 @@
 # Code Review
 
-Slides by Steve Grunwell, Talk by Samantha Quinone
+Slides by Steve Grunwell, Talk by Samantha Quiñones
 
 * Formal Code Review
     * Official Part of dev workflow
