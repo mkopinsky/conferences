@@ -55,7 +55,11 @@ Joe Ferguson
     }
     ```
     This only requires only as much RAM as the largest row in the file.
-    
+* Rewinding Stream
+    * `ftell()` tells you how far into the file you are
+    * `rewind($file)` goes back to the beginning
+    * `fseek($file, 96);` goes forward by 96 bytes. (Can also go negative
+    *  
 
 
 
