@@ -14,4 +14,6 @@ Slides by Steve Grunwell, Talk by Samantha Quinone
     * Catch egregious style things
         * Should be automated
 * Facilitating Code Reviews
+    * Power dynamics are prevalent!
+        * Not just manager vs IC, also old vs. new, different demographics
     * 
