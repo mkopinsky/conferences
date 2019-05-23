@@ -9,4 +9,6 @@
         * Change request from analytics group should not break a feature for marketing group.
     * SRP == Conway's law.
 * Coupling and Cohesion
-    * Couplin
+    * Cohesion = they're physically together.
+    * Coupling = they depend on each other. e.g. API and consumer can be tightly coupled
+* 
