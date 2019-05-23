@@ -20,11 +20,11 @@ Joe Ferguson
     * `stream_get_filters()`
     * `zlib.*,bzip2.*,convert.iconv.*,mcrypt.*,mdecrypt.*,string.rot13,string.toupper,string.tolower,string.strip_tags,convert.*,consumed,dechunk`
 * Stream Context
-    ```
+    ```php
     $context = [
         'http' => [
-            'headers' => '.....'
-            ...
+            'headers' => '.....',
+            // ...
         ]
     ];
     stream_context_set_default($context);
@@ -42,7 +42,20 @@ Joe Ferguson
     $destination = fopen('./whatever.iso', 'w');
     stream_copy_to_stream($handle, $destination);
     ```
+* Reading from pointers
+    ```php
+    $file = fopen('file.csv', 'r');
+    while (!feof($file)) {
+        $line = trim(fgets($file));
+        
+        if ('condition') {
+            $people = str_getcsv($line);
+        }
+    }
+    ```
+
+
 
 
 Side things:
-* Faker is a library to create random data
+* [Faker](https://github.com/fzaninotto/Faker) is a library to create random data
