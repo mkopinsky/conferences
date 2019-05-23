@@ -68,6 +68,7 @@ Joe Ferguson
         * Cast to string to get response body
         * To use as streams
             * `$hundredBytes = $body->read(100);`
+            * Once we have a sense it's safe, fetch and json_decode with `json_decode($response->getBody)`
     
 
 
