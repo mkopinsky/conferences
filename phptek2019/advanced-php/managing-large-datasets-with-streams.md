@@ -42,5 +42,7 @@ Joe Ferguson
     $destination = fopen('./whatever.iso', 'w');
     stream_copy_to_stream($handle, $destination);
     ```
-    
-      
+
+
+Side things:
+* Faker is a library to create random data
