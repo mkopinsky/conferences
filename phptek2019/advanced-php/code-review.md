@@ -14,6 +14,11 @@ Slides by Steve Grunwell, Talk by Samantha Quinone
     * Catch egregious style things
         * Should be automated
 * Facilitating Code Reviews
-    * Power dynamics are prevalent!
+    * We try to be egalitarian, but power dynamics are prevalent!
         * Not just manager vs IC, also old vs. new, different demographics
-    * 
+    * Other things to consider
+        * Code ownership - "Have someone from the payments team review this"
+        * Learning opportunity for reviewer - e.g. X is looking to get better at testing
+        * Learning opportunity for dev - e.g. first time implementing new pattern, have someone review who's most familiar with the pattern
+    * Be mindful about who to assign to
+        
