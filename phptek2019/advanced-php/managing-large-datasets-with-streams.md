@@ -34,5 +34,13 @@ Joe Ferguson
     * Consume too much and you get Fatal OOM
     * `ini_set('memory_limit', ...)` is a workaround, but has major limitations obviously
     * Instead, use streams
-*  
+    ```php
+    $handle = fopen(
+        'http://releases.ubuntu.com/.../whatever.iso',
+        'rb' // mode
+    );
+    $destination = fopen('./whatever.iso', 'w');
+    stream_copy_to_stream($handle, $destination);
+    ```
+    
       
