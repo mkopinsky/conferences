@@ -25,4 +25,12 @@ Slides by Steve Grunwell, Talk by Samantha Quinone
         * This helps avoid adversarial reviews since the scope of the review is clearly defined.
 * Audience question: How to solicit meaningful reviews when you're the one with more power in the dynamic.
     * Be explicit about it.
-    * Good opportunity for pair programming. Walk through it together, when they 
+    * Good opportunity for pair reviewing. Walk through it together, when they have a moment of "huh", take a moment to reconsider. Put the burden on yourself.
+* Audience question: Checklists? They've tried checklists but they can make it a chore.
+    * Look at checklist, see what can be automated. PSR-2, needs tests, etc. Pare down the checklist.
+    * Checklists aren't necessarily necessary.
+    
+    
+    
+Personal takeaways:
+    * I should probably do some pair reviewing - help other devs get better at reviews, and make the reviews happen promptly.
