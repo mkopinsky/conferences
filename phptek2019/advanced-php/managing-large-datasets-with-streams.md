@@ -18,6 +18,21 @@ Joe Ferguson
     * https,ftps,compress.zlib,compress.bzip2,php,file,glob,data,http,ftp,phar,zip
 * Stream Filters
     * `stream_get_filters()`
-    * 
+    * `zlib.*,bzip2.*,convert.iconv.*,mcrypt.*,mdecrypt.*,string.rot13,string.toupper,string.tolower,string.strip_tags,convert.*,consumed,dechunk`
 * Stream Context
- 
+    ```
+    $context = [
+        'http' => [
+            'headers' => '.....'
+        ...
+        ]
+    ];
+    stream_context_set_default($context);
+    file_get_contents('http://whatever');
+    ```
+* Size matters
+    * Consume too much and you get Fatal OOM
+    * `ini_set('memory_limit', ...)` is a workaround, but has major limitations obviously
+    * Instead, use streams
+*  
+      
