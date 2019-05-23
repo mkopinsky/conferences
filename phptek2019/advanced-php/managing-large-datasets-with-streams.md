@@ -45,11 +45,12 @@ Joe Ferguson
 * Reading from pointers
     ```php
     $file = fopen('file.csv', 'r');
+
     while (!feof($file)) {
         $line = trim(fgets($file));
         
         if ('condition') {
-            $people = str_getcsv($line);
+            $people[] = str_getcsv($line);
         }
     }
     ```
