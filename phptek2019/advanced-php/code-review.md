@@ -29,7 +29,8 @@ Slides by Steve Grunwell, Talk by Samantha Quinone
 * Audience question: Checklists? They've tried checklists but they can make it a chore.
     * Look at checklist, see what can be automated. PSR-2, needs tests, etc. Pare down the checklist.
     * Checklists aren't necessarily necessary. Instead develop a code review culture where expectations are clear. Write down "here's what should be in a Pull Request" but doesn't need to be a checklist.
-    
+* Providing feedback
+    * Don't bombard with comments. Before you comment, do quick read. If they're on the wrong track, "Hey I saw your PR and I had some thoughts, can we sit down together?" is much better and lets you watch body language etc.
     
     
 Personal takeaways:
